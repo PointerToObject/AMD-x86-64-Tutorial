@@ -421,12 +421,6 @@ typedef struct {
 ## Frequently Asked Questions
 
 <details>
-<summary><strong>Do I need AMD hardware?</strong></summary>
-
-No. Most concepts apply to both AMD and Intel x86-64 processors. QEMU can emulate AMD-specific features. However, for virtualization (AMD-V) and security features (SEV), AMD hardware is beneficial.
-</details>
-
-<details>
 <summary><strong>Is this course suitable for beginners?</strong></summary>
 
 This is an advanced course. You should be comfortable with C programming and have basic familiarity with assembly concepts. Complete a basic systems programming or architecture course first.
@@ -438,27 +432,8 @@ This is an advanced course. You should be comfortable with C programming and hav
 Plan for 180-240 hours total (15-20 hours per week for 12 weeks). Adjust based on your background—those with prior x86 experience may move faster.
 </details>
 
-<details>
-<summary><strong>Can I skip weeks?</strong></summary>
 
-Weeks build on each other. Skipping is not recommended. If you have strong background in a topic, spend less time but still review the material.
-</details>
 
----
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Ways to Contribute
-
-- 🐛 Report errors or unclear explanations
-- 📝 Suggest additional exercises
-- 🔧 Submit fixes or improvements
-- 📚 Add supplementary resources
-- 🌐 Translations
-
----
 
 ## License
 
@@ -476,29 +451,11 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
 
----
 
-## Acknowledgments
-
-### Resources and Inspiration
-
-- **AMD** for comprehensive public documentation
-- **OpenSecurityTraining2** for excellent x86 education
-- **OSDev Community** for practical implementation knowledge
-- **Agner Fog** for optimization research
-
-### Special Thanks
-
-- The systems programming education community
-- Contributors and reviewers
-- Students who provided feedback
-
----
 
 <div align="center">
 
 **[⬆ Back to Top](#amd64-systems-programming)**
 
-Made with dedication for systems programming education.
 
 </div>
